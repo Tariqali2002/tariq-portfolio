@@ -59,6 +59,7 @@ export interface PortfolioData {
     email: string;
     phone: string;
     linkedin: string;
+    github: string;
     resumeUrl: string;
     summary: string;
     careerGoal: string;

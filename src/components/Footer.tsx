@@ -21,8 +21,7 @@ export default function Footer() {
             {portfolioData.personal.name}
           </p>
           <p className="text-xs text-[#64748B] dark:text-slate-400 mt-1">
-            © {new Date().getFullYear()} Tariq Ali. Built with Next.js,
-            TypeScript, Tailwind CSS & Framer Motion.
+            © {new Date().getFullYear()} Tariq Ali. All rights reserved.
           </p>
         </div>
 

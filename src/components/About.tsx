@@ -58,7 +58,7 @@ export default function About() {
                   className="flex items-center gap-2.5 text-xs sm:text-sm text-[#0F172A] dark:text-slate-200 font-medium"
                 >
                   <CheckCircle2 className="w-4 h-4 text-[#049F67] dark:text-emerald-400 shrink-0" />
-                  <span>{item} — Based in Lucknow, Uttar Pradesh</span>
+                  <span>{item} — Based in Lucknow or Anywhere in , India</span>
                 </div>
               ))}
             </div>
